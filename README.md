@@ -1,2 +1,2 @@
 # learngit
-learning for git
+This is my first Git based project.What fuck!
